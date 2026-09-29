@@ -1,6 +1,9 @@
 # User Feedback Synthesizer
 
 An AI system that learns from continuous user feedback over time using **Hindsight persistent memory** and **Groq LLM reasoning**.
+## Live Demo
+
+🌐 [Open User Feedback Synthesizer](https://user-feedback-synthesizer-qy3d3ja38-the-tulips.vercel.app/)
 
 ## Core Value & Architecture
 
